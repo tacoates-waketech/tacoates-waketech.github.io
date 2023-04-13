@@ -1,0 +1,65 @@
+html {
+    background-image: url(images/HTMl_code.jpg);
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: multiply;
+    color: rgb(204, 202, 202);  
+    font-family: arial;
+
+}
+
+.mainNav{
+    position:absolute
+    bottom:-30px
+    
+}
+
+.navigationBox {
+    display: flex;
+    justify-content: center; 
+    font-size: 30px  
+
+}
+header {
+
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+h1 {
+    font-size: 100px
+}
+
+nav{
+    
+    color: limegreen;
+    
+}
+
+h1{
+    color:limegreen;
+
+
+}
+
+h1:hover: {
+    position:left;
+
+}
+a:hover {
+    background-color: grey;
+    transition: 0.2s;
+
+    
+
+
+}
+
+a:visited{
+    color:rgb(50, 241, 50)
+}
+    
+a:active {
+    color: red;
+
+}
