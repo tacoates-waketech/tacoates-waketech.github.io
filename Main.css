@@ -29,9 +29,7 @@ header {
     
 
 }
-h1 {
-    font-size: 100px
-}
+
 
 nav{
     
@@ -41,8 +39,13 @@ nav{
 
 h1{
     color:limegreen;
+    font-size: 100px;
 
 
+}
+
+h2{
+    color:rgb(0, 133, 194)
 }
 
 h1:hover: {
@@ -59,10 +62,11 @@ a:hover {
 }
 
 a:visited{
-    color:rgb(50, 241, 50)
+    color:rgb(50, 241, 50);
 }
     
 a:active {
     color: red;
 
 }
+
